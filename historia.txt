@@ -1,0 +1,5 @@
+Este es el primer archivo de Moises
+
+Estamos aprendiendo git
+
+Este sera una bitacora de lo practicado
