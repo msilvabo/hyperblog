@@ -2,4 +2,4 @@ Este es el primer archivo de Moises
 
 Estamos aprendiendo git, tengo 42 años
 
-Este sera una bitacora de lo practicado
+Este sera una bitacora de lo practicado, el avance es apulatino en el 2022
