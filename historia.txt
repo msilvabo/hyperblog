@@ -4,4 +4,6 @@ Estamos aprendiendo git
 
 Este sera una bitacora de lo practicado
 
+Anita nacio en internet
+
 Hoy debemos terminar git
